@@ -4,6 +4,7 @@
 
 body p {
 	font-family: 'Overpass', sans-serif;
+	font-size: 20px;
 }
 
 /* Header CSS */
@@ -89,7 +90,7 @@ li.dropdown {
 }
 
 .dropdown-content a:hover {
-	.background-color: #879dbc
+	background-color: #879dbc
 }
 
 .dropdown:hover .dropdown-content {
@@ -97,4 +98,14 @@ li.dropdown {
 }
 
 
-/* End Header CSS */
+/* Container CSS */
+.container {
+	margin: 5px 350px 0px 350px;
+}
+
+body h1 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
