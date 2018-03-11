@@ -8,12 +8,6 @@ body p {
 }
 
 /* Header CSS */
-header nav {
-	overflow: hidden;
-	position: fixed;
-	top: 0;
-	width: 100%;
-}
 
 header nav h1 {
 	display: block;
@@ -109,7 +103,7 @@ li.dropdown {
 
 /* Container CSS */
 .container {
-	margin: 70px 350px 0px 350px;
+	margin: 20px 350px 0px 350px;
 }
 
 body h1 {
