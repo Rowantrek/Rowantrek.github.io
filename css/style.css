@@ -1,6 +1,5 @@
-.content {
-
-}
+@media (min-width: 1980px){
+	.content {}
 
 body p {
 	font-family: 'Overpass', sans-serif;
@@ -103,7 +102,7 @@ li.dropdown {
 
 /* Container CSS */
 .container {
-	margin: 20px 350px 0px 350px;
+	margin: 20px 450px 0px 450px;
 }
 
 body h1 {
@@ -118,10 +117,205 @@ body h2 {
 	text-align: center;
 	font-size: 25px;
 	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 .gallery img {
 	max-height: 300px;
 	max-width: 300px;
 	padding-bottom: 50px;
+}
+
+.gallery {
+	margin: 0px 100px 0 100px;
+}
+
+.cvid {
+	margin: 0px 200px 0px 225px;
+	align-content: center;
+	padding: 25px 0px 25px 0px;
+}
+
+.binaryvid {
+	margin: 0px 150px 0px 150px;
+	align-content: center;
+}
+
+
+}
+
+/* Media Query 1920px */
+@media (max-width: 1920px){
+	.content {}
+
+body p {
+	font-family: 'Overpass', sans-serif;
+	font-size: 20px;
+}
+
+/* Header CSS */
+
+header nav h1 {
+	display: block;
+	text-align: center;
+	padding: 5px 16px;
+	text-decoration: none;
+	float: left;
+}
+
+header nav h1 a {
+	text-decoration: none;
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 40px;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+header nav {
+	background-color: #333;
+	overflow: hidden;
+}
+
+header nav ul li {
+    float: right;
+}
+
+header nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+}
+
+header nav ul li a:hover {
+    background-color: #111;
+}
+
+header nav ul li .dropdown-content a:hover {
+	background-color: #f1f1f1;
+}
+
+header nav ul li a.active {
+    background-color: #4CAF50;
+}
+
+header nav ul li a .dropbtn {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li.dropdown {
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: white;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+
+.dropdown-content a:hover {
+	background-color: #879dbc
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+
+
+/* Container CSS */
+.container {
+	margin: 20px 450px 0px 450px;
+}
+
+body h1 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-size: 35px;
+	padding-bottom: 30px;
+}
+
+body h2 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.gallery img {
+	max-height: 300px;
+	max-width: 300px;
+	padding-bottom: 50px;
+}
+
+.gallery {
+	margin: 0px 100px 0 100px;
+}
+
+.cvid {
+	margin: 0px 200px 0px 225px;
+	align-content: center;
+	padding: 25px 0px 25px 0px;
+}
+
+.binaryvid {
+	margin: 0px 150px 0px 150px;
+	align-content: center;
+}
+/* End 1920px */ 
+}
+
+/* Media Query 1680px */
+@media (min-width: 1680px){
+	
+/* End 1680px */
+}
+
+/* Media Query 1440px */
+@media (min-width: 1440px){
+
+/* End 1440px */
+}
+
+/* Media Query 1366px */
+@media (min-width: 1366px){
+	
+/* End 1366px*/
+}
+
+/* Media Query 1080px */
+@media (min-width: 1080px){
+	
+/* End 1080px */
+}
+
+/* Media Query 1024*/
+@media (min-width: 1024px){
+	
+/* End 1024px */
 }
