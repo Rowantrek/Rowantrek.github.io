@@ -14,8 +14,14 @@
 	?>
 	<!-- Content Wrapper -->
 	<div class="container">
-		<h1>Binary Stuff</h1>
+		<h1>Binary Stuff... jks, get RICKROLLED!!!</h1>
 	</div>
-		<iframe class="binaryvid" width="1650" height="700" src="https://www.youtube.com/embed/DLzxrzFCyOs?rel=0;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	
+	<div class="binarypage">
+	<img src="http://45.76.124.195/img/binary_face.gif">
+	<iframe class="binarybid" width="1000" height="700" src="https://www.youtube.com/embed/DLzxrzFCyOs?rel=0;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<img src="http://45.76.124.195/img/binary_face.gif">
+	</div>
+	
 </body>
 </html>

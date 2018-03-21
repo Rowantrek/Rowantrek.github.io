@@ -22,9 +22,8 @@
 				<li class="dropdown">
 					<a href="javascript:void(0)" class="dropbtn">Social &amp; Ethical Issues</a>
 					<div class="dropdown-content">
-						<a href="">Evolution of Software</a>
-						<a href="">Intellectual Property</a>
-						<a href="">Social Context of Software Design</a>
+						<a href="http://45.76.124.195/pages/evolutionip.php">Evolution of Software &amp; Intellectual Property</a>
+						<a href="http://45.76.124.195/pages/socialcontext.php">Social Context of Software Design</a>
 					</div>
 				</li>
 				<li><a href="">Elements of a Computer</a></li>

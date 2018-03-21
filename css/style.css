@@ -737,6 +737,18 @@ body h2 {
 	margin: 25px 100px 0px 0px;
 	}
 	
+.binarypage {
+	margin: 0px 0px 0px 100px;
+}
+	
+.binaryimg1 {
+	margin: 0px 0px 0px 15px;
+}
+	
+.binaryimg2 {
+	margin: 0px 0px 0px 1000px;
+}
+	
 /* End 1366px*/
 }
 
@@ -921,7 +933,17 @@ body h2 {
 	margin: 25px 100px 0px 0px;
 	}
 
+.binarypage {
+	margin: 0px 0px 0px 124px;
+}
 	
+.binaryimg1 {
+	margin: 0px 0px 0px 30px;
+}
+	
+.binaryimg2 {
+	margin: 0px 0px 0px 1000px;
+}
 /* End 1440px */
 }
 
@@ -1097,15 +1119,24 @@ body h2 {
 }
 
 .binaryvid {
-	margin: 0px 250px 0px 250px;
+	margin: 0px 150px 0px 350px;
 	align-content: center;
-	max-width: 1200px;
 }
 	
 .gdoc {
 	margin: 100px 100px 0px 50px;
 	}
-
+.binarypage {
+	margin: 0px 0px 0px 150px;
+}
+	
+.binaryimg1 {
+	margin: 0px 0px 0px 35px;
+}
+	
+.binaryimg2 {
+	margin: 0px 0px 0px 1000px;
+}
 	
 /* End 1680px */
 }
@@ -1119,9 +1150,8 @@ h1, h2, p {
 	}	
 	
 body {
-		background: url(../img/background.jpg);
-	}
-	
+		background: url(http://45.76.124.195/img/background.jpg);
+	}	
 	
 body p {
 	font-family: 'Overpass', sans-serif;
@@ -1246,7 +1276,7 @@ li.dropdown {
 
 /* Container CSS */
 .container {
-	margin: 20px 450px 0px 500px;
+	margin: 20px 450px 0px 475px;
 }
 
 body h1 {
@@ -1281,19 +1311,33 @@ body h2 {
 }
 
 .binaryvid {
-	margin: 0px 150px 0px 150px;
-	align-content: center;
+	margin: 0px 0px 0px 475px;
 }
 	
 .gdoc {
 	margin: 100px 100px 0px 50px;
 	}
 
+.binarypage {
+	margin: 0px 0px 0px 200px;
+}
+	
+.binaryimg1 {
+	margin: 0px 0px 0px 50px;
+}
+	
+.binaryimg2 {
+	margin: 0px 0px 0px 1000px;
+}
 /* End 1920px */ 
 }
 
 @media (min-width: 1980px){
 .content {}
+	
+body {
+	transition: 200ms ease;
+}
 	
 h1, h2, p {
 	color: white;
@@ -1461,8 +1505,7 @@ body h2 {
 }
 
 .binaryvid {
-	margin: 0px 150px 0px 150px;
-	align-content: center;
+	margin: 0px 0px 0px 475px;
 }
 	
 	header nav ul li div a {
@@ -1474,6 +1517,18 @@ body h2 {
 .gdoc {
 	margin: 100px 100px 0px 50px;
 	}
+
+.binarypage {
+	margin: 0px 0px 0px 200px;
+}
+	
+.binaryimg1 {
+	margin: 0px 0px 0px 50px;
+}
+	
+.binaryimg2 {
+	margin: 0px 0px 0px 1000px;
+}
 
 /* End 1980px */
 }
