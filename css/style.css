@@ -1,10 +1,22 @@
+@charset "UTF-8";
+/* Style.CSS 
+Master CSS Stylesheet
+Authors: Rowan (Main CSS Designer), Jared, Chris, and Matthew
+CSS3
+*/
+
+
 /* Media Query Under 1024*/
 @media (max-width: 1023px){
 	
 .content {}
+	
+h1, h2, p {
+	color: white;
+	}
 
 body {
-		background: url(../img/background.jpg);
+	background: url(../img/background.jpg);
 	}
 	
 	
@@ -167,9 +179,7 @@ body h2 {
 	max-width: 800px;
 }
 	
-h1, h2, p {
-	color: white;
-	}
+
 	
 /* End of Max 1023px */
 }
@@ -178,6 +188,10 @@ h1, h2, p {
 @media (min-width: 1024px){
 	
 .content {}
+	
+h1, h2, p {
+	color: white;
+	}
 
 body {
 		background: url(../img/background.jpg);
@@ -343,9 +357,7 @@ body h2 {
 	max-width: 800px;
 }
 	
-h1, h2, p {
-	color: white;
-	}
+
 	
 /* End 1024px */
 }
@@ -355,6 +367,10 @@ h1, h2, p {
 	
 .content {}
 
+h1, h2, p {
+	color: white;
+	}
+	
 body {
 		background: url(../img/background.jpg);
 	}
@@ -519,9 +535,7 @@ body h2 {
 	max-width: 800px;
 }
 	
-h1, h2, p {
-	color: white;
-	}
+
 	
 /* End 1080px */
 }
@@ -530,6 +544,10 @@ h1, h2, p {
 @media (min-width: 1366px){
 	
 .content {}
+	
+h1, h2, p {
+	color: white;
+	}
 
 body {
 		background: url(../img/background.jpg);
@@ -553,6 +571,8 @@ body a {
 
 	
 /* Header CSS */
+	
+
 
 header nav h1 {
 	display: block;
@@ -614,7 +634,7 @@ header nav ul li a.active {
     background-color: #4CAF50;
 }
 
-header nav ul li a .dropbtn {
+header nav ul li .dropbtn {
 	display: inline-block;
 	color: white;
 	text-align: center;
@@ -695,9 +715,7 @@ body h2 {
 	max-width: 1000px;
 }
 	
-h1, h2, p {
-	color: white;
-	}
+
 	
 /* End 1366px*/
 }
@@ -706,6 +724,10 @@ h1, h2, p {
 @media (min-width: 1440px){
 
 .content {}
+	
+h1, h2, p {
+	color: white;
+	}
 
 body {
 		background: url(../img/background.jpg);
@@ -871,9 +893,7 @@ body h2 {
 	max-width: 1000px;
 }
 	
-h1, h2, p {
-	color: white;
-	}
+
 	
 /* End 1440px */
 }
@@ -882,6 +902,10 @@ h1, h2, p {
 @media (min-width: 1680px){
 
 .content {}
+	
+h1, h2, p {
+	color: white;
+	}	
 
 body {
 		background: url(../img/background.jpg);
@@ -1047,9 +1071,7 @@ body h2 {
 	max-width: 1200px;
 }
 	
-h1, h2, p {
-	color: white;
-	}	
+
 
 	
 /* End 1680px */
@@ -1059,6 +1081,10 @@ h1, h2, p {
 @media (min-width: 1920px){
 .content {}
 
+h1, h2, p {
+	color: white;
+	}	
+	
 body {
 		background: url(../img/background.jpg);
 	}
@@ -1222,15 +1248,17 @@ body h2 {
 	align-content: center;
 }
 	
-h1, h2, p {
-	color: white;
-	}	
+
 
 /* End 1920px */ 
 }
 
 @media (min-width: 1980px){
 .content {}
+	
+h1, h2, p {
+	color: white;
+	}
 
 body {
 		background: url(../img/background.jpg);
@@ -1394,9 +1422,7 @@ body h2 {
 	align-content: center;
 }
 	
-h1, h2, p {
-	color: white;
-	}
+
 
 /* End 1980px */
 }
