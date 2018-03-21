@@ -4,12 +4,14 @@
 	<meta name="author" content="Rowan, Chris, Jared">
 	<meta name="keywords" content="SDD, Software Design, Assignment">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="http://45.76.124.195/img/favicon.png">
 	<!-- Site Wide CSS Code -->
 	<link rel="stylesheet" type="text/css" href="../css/reset.css">
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Oswald|Overpass" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:900" rel="stylesheet">
+	
 
 </head>
 <body>
