@@ -365,7 +365,9 @@ body h2 {
 	max-width: 800px;
 }
 	
-
+.gdoc {
+	margin: 25px 100px 0px 0px;
+	}
 	
 /* End 1024px */
 }
@@ -547,7 +549,9 @@ body h2 {
 	max-width: 800px;
 }
 	
-
+.gdoc {
+	margin: 25px 100px 0px 0px;
+	}
 	
 /* End 1080px */
 }
@@ -687,8 +691,6 @@ li.dropdown {
 	display: block;
 }
 
-
-
 /* Container CSS */
 .container {
 	margin: 20px 300px 0px 300px;
@@ -731,7 +733,9 @@ body h2 {
 	max-width: 1000px;
 }
 	
-
+.gdoc {
+	margin: 25px 100px 0px 0px;
+	}
 	
 /* End 1366px*/
 }
@@ -913,6 +917,9 @@ body h2 {
 	max-width: 1000px;
 }
 	
+.gdoc {
+	margin: 25px 100px 0px 0px;
+	}
 
 	
 /* End 1440px */
@@ -1095,7 +1102,9 @@ body h2 {
 	max-width: 1200px;
 }
 	
-
+.gdoc {
+	margin: 100px 100px 0px 50px;
+	}
 
 	
 /* End 1680px */
@@ -1276,7 +1285,9 @@ body h2 {
 	align-content: center;
 }
 	
-
+.gdoc {
+	margin: 100px 100px 0px 50px;
+	}
 
 /* End 1920px */ 
 }
@@ -1458,6 +1469,10 @@ body h2 {
 		text-decoration: none;
 		text-decoration-color: black;
 		color: black;
+	}
+	
+.gdoc {
+	margin: 100px 100px 0px 50px;
 	}
 
 /* End 1980px */
