@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
 	<!-- Meta Elements -->
 	<meta charset="utf-8">
 	<meta name="description" content="Year 11 Prelim SDD Assignment Website Homepage">
@@ -13,14 +10,12 @@
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Oswald|Overpass" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:900" rel="stylesheet">
-	<!-- Page Specific Elements -->
-	<title>SDD Assignment</title>
-	<link rel="stylesheet" type="text/css" href="../css/Rowan.css"
+
 </head>
 <body>
 	<header id="nav">
 		<nav>
-			<h1><a href="./index.html">EduSuite</a></h1>
+			<h1><a href="http://45.76.124.195/index.php">EduSuite</a></h1>
 			<ul>
 				<li class="dropdown">
 					<a href="javascript:void(0)" class="dropbtn">Social &amp; Ethical Issues</a>
@@ -42,31 +37,16 @@
 				<li class="dropdown">
 					<a href="javascript:void(0)" class="dropbtn">Software</a>
 					<div class="dropdown-content">
-						<a href="/pages/osutil.html">Operating Systems &amp; Utilities</a>
-						<a href="">Off-the-shelf Applicaion Packages</a>
-						<a href="">Generations of Programming Languages</a>
-						<a href="">Needs for Translation</a>
-						<a href="">Functions of an Operatining System</a>
-						<a href="">Trends in development of software and OS'</a>
+						<a href="http://45.76.124.195/pages/osutil.php">Operating Systems &amp; Utilities</a>
+						<a href="http://45.76.124.195/pages/applicationtypes.php">Off-the-shelf Applicaion Packages</a>
+						<a href="http://45.76.124.195/pages/languages.php">Generations of Programming Languages</a>
+						<a href="http://45.76.124.195/pages/translation.php">Needs for Translation</a>
+						<a href="http://45.76.124.195/pages/osfunctions.php">Functions of an Operatining System</a>
 					</div>
 				</li>
-				<li class="dropdown">
-					<a href="" class="dropbtn">Relationship between Hardware &amp; Software</a>
-					<div class="dropdown-content">
-						<a href="">Processing of Software Instructions by Hardware</a>
-						<a href="">Initating and runnings of an application</a>
-					</div>
-					</div>
-					</div>
-					</div>
+				<li>
+					<a href="http://45.76.124.195/pages/fetchcycle.php">Relationship between Hardware &amp; Software</a>
 				</li>
 			</ul>
 		</nav>
 	</header>
-	<!-- Content Wrapper -->
-	<div class="container">
-		<h1>Binary Stuff</h1>
-	</div>
-		<iframe class="binaryvid" width="1650" height="700" src="https://www.youtube.com/embed/DLzxrzFCyOs?rel=0;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</body>
-</html>

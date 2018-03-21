@@ -60,6 +60,10 @@ header nav a:visited {
 	font-size: 40px;
 }
 
+header nav ul div a:visited {
+    color:black
+}
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -238,6 +242,10 @@ header nav a:visited {
 	font-size: 40px;
 }
 
+header nav ul div a:visited {
+              color:black
+}
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -414,6 +422,10 @@ header nav a:visited {
 	color: white;
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 40px;
+}
+
+header nav ul div a:visited {
+              color:black
 }
 
 header nav ul {
@@ -596,6 +608,10 @@ header nav a:visited {
 	font-size: 40px;
 }
 
+header nav ul div a:visited {
+              color:black
+}
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -772,6 +788,10 @@ header nav a:visited {
 	color: white;
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 40px;
+}
+
+header nav ul div a:visited {
+              color:black
 }
 
 header nav ul {
@@ -952,6 +972,10 @@ header nav a:visited {
 	font-size: 40px;
 }
 
+header nav ul div a:visited {
+              color:black
+}
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -1130,6 +1154,10 @@ header nav a:visited {
 	font-size: 40px;
 }
 
+header nav ul div a:visited {
+              color:black
+}
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -1304,6 +1332,10 @@ header nav a:visited {
 	font-size: 40px;
 }
 
+header nav ul div a:visited {
+              color:black
+}
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -1422,7 +1454,11 @@ body h2 {
 	align-content: center;
 }
 	
-
+	header nav ul li div a {
+		text-decoration: none;
+		text-decoration-color: black;
+		color: black;
+	}
 
 /* End 1980px */
 }

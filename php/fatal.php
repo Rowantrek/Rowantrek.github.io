@@ -1,26 +1,25 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<!-- Meta Elements -->
 	<meta charset="utf-8">
 	<meta name="description" content="Year 11 Prelim SDD Assignment Website Homepage">
-	<meta name="author" content="Rowan, Chris, Jared, Matthew">
-	<meta name="keywords" content="SDD, Software Design, Assignment, HTML, CSS, Homework, Software, Design, School, Schoolwork">
+	<meta name="author" content="Rowan, Chris, Jared">
+	<meta name="keywords" content="SDD, Software Design, Assignment">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Site Wide CSS Code -->
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="../css/reset.css">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Oswald|Overpass" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:900" rel="stylesheet">
 	<!-- Page Specific Elements -->
-	<title>SDD - Homepage</title>
-	
+	<title>SDD Assignment</title>
+
 </head>
 <body>
-	<header id="nav">
+<header id="nav">
 		<nav>
-			<h1><a href="./index.html">EduSuite</a></h1>
+			<h1><a href="http://45.76.124.195/index.php">EduSuite</a></h1>
 			<ul>
 				<li class="dropdown">
 					<a href="javascript:void(0)" class="dropbtn">Social &amp; Ethical Issues</a>
@@ -42,27 +41,26 @@
 				<li class="dropdown">
 					<a href="javascript:void(0)" class="dropbtn">Software</a>
 					<div class="dropdown-content">
-						<a href="/pages/osutil.html">Operating Systems &amp; Utilities</a>
-						<a href="/pages/applicationtypes.html">Off-the-shelf Applicaion Packages</a>
-						<a href="/pages/languages.html">Generations of Programming Languages</a>
-						<a href="/pages/translation.html">Needs for Translation</a>
-						<a href="/pages/osfunctions.html">Functions of an Operatining System</a>
+						<a href="http://45.76.124.195/pages/osutil.php">Operating Systems &amp; Utilities</a>
+						<a href="http://45.76.124.195/pages/applicationtypes.php">Off-the-shelf Applicaion Packages</a>
+						<a href="http://45.76.124.195/pages/languages.php">Generations of Programming Languages</a>
+						<a href="http://45.76.124.195/pages/translation.php">Needs for Translation</a>
+						<a href="http://45.76.124.195/pages/osfunctions.php">Functions of an Operatining System</a>
 					</div>
 				</li>
-				<li class="dropdown">
-					<a href="" class="dropbtn">Relationship between Hardware &amp; Software</a>
-					<div class="dropdown-content">
-						<a href="">Processing of Software Instructions by Hardware</a>
-						<a href="">Initating and runnings of an application</a>
-					</div>
+				<li>
+					<a href="http://45.76.124.195/pages/fetchcycle.php">Relationship between Hardware &amp; Software</a>
 				</li>
 			</ul>
 		</nav>
 	</header>
-	<!-- Content Wrapper -->
 	<div class="container">
+	<div>
+	<h1 class="errorpage">Sorry, There has been a critcal error!<h1>
+		<h2>Please Contact the Webmaster at Rowan@example.com<h2>
+		
 
 	</div>
+</div>
 
-</body>
-</html>
+</body></html>
